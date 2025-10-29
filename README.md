@@ -7,7 +7,7 @@
     3. echo, vim, cat, ls, ls -al, mkdir, rmdir 등 리눅스 쉘에 존재하는 명령어를 사용할 수 있다.
   ### Phase 2: 파이프를 포함하여 여러 개의 command를 foreground에서 수행
   - 파이프라인으로 여러 개의 command를 입력받아 수행하는 기능이 추가 됐다.
- ### Phase 3: background process를 구현하고 signal handler를 구현하여 처리
+  ### Phase 3: background process를 구현하고 signal handler를 구현하여 처리
  
 ## Proejct 2:
 
